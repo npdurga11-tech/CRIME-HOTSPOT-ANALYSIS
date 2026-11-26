@@ -1,0 +1,8 @@
+indicator,column,spearman_rho,p_value,n_zones
+Hardship index (1-100),hardship_index,0.8644579609573452,3.03790388370461e-09,28
+Households below poverty (%),poverty_pct,0.8571428571428572,5.760981370482906e-09,28
+Aged 16+ unemployed (%),unemployment_pct,0.8511220580186097,9.50628380853134e-09,28
+Crowded housing (%),crowded_housing_pct,0.8057495546002714,2.2977185059648506e-07,28
+Aged 25+ without HS diploma (%),no_hs_diploma_pct,0.8008758799510008,3.0782858329242745e-07,28
+Aged <18 or >64 (%),dependency_pct,0.3164089259136558,0.10092150130855904,28
+Per-capita income ($),per_capita_income,-0.8434592227695675,1.7438688731665403e-08,28

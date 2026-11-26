@@ -1,0 +1,12 @@
+step,rows_affected,rows_remaining,note
+raw rows loaded,0,200507,starting point
+exact duplicate rows removed,997,199510,
+unparseable / missing dates removed,399,199111,
+dates outside the study window / in the future removed,399,198712,
+category text normalised (whitespace / case),1978,198712,"kept, not removed"
+missing category labelled UNKNOWN,399,198712,"kept, not removed"
+missing coordinates flagged,3963,198712,"kept for time series, excluded from mapping/clustering"
+zero coordinates blanked,594,198712,"kept, no geometry"
+swapped lat/lon repaired,584,198712,repaired in place
+coordinates outside city bounding box blanked,390,198712,"kept, no geometry"
+clean rows ready for analysis,0,198712,"193,765 of them have usable coordinates"
